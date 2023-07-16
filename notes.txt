@@ -1,0 +1,18 @@
+Array       __  Collection of data
+ 
+Object      __  Key Value pairs data store krta hai.
+
+classroom = [students={"A","B","C"}]
+
+var classroom ={
+
+    name:"amit"
+    age:26
+
+
+}
+
+
+API fetch 
+
+await  se in
